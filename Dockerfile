@@ -1,5 +1,1 @@
-FROM vs69/rapidleech:v1
-
-ENV CC_DOCKER_EXPOSED_HTTP_PORT=80
-
-EXPOSE 80
+FROM vs69/rapidleech:clever
